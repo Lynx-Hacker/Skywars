@@ -1,0 +1,9 @@
+name: SkyWars
+main: mkz/Main
+api: [3.3.0,3.0.0,4.0.0]
+author: MKZ5967
+
+commands:
+   health:
+   description: "For Increase Your Health"
+
